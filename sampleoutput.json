@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": null,
+            "title": "Bill Clinton: We are both deeply and yet closely divided as a country",
+            "description": "Joe Scarborough sits down with former President Bill Clinton to discuss his book 'Citizen,' Donald Trump's 2024 election win and the polarized state of U.S. politics.",
+            "url": "https://www.msnbc.com/morning-joe/watch/bill-clinton-we-are-both-deeply-and-yet-closely-divided-as-a-country-226539077857",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2024_12/1733751996253_n_mj_clinton_241209_1920x1080-xgz67w.jpg",
+            "publishedAt": "2024-12-09T213:46:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "CHRIS MEGERIAN",
+            "title": "In promising to shake up Washington, Trump is in a class of his own",
+            "description": "WASHINGTON (AP) — In the history of American politics, there's no shortage of presidents who promised to shake up Washington once they got to the White House. But Donald Trump may prove to be in a class of his own, and he appears more interested in beating th…",
+            "url": "https://apnews.com/c821974493749226e1f3dd633914a02f",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/15ab5377a0eb49c3a75ff311e32160ae/3000.jpeg",
+            "publishedAt": "2024-12-09T05:08:46Z",
+            "content": "WASHINGTON (AP) — In the history of American politics, there's no shortage of presidents who promised to shake up Washington once they got to the White House. But Donald Trump may prove to be in a cl… [+6826 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Ben Burgis",
+            "title": "Obama's democracy forum speech proved his era in politics his over",
+            "description": "We urgently need a better response to the current crisis than what anyone in the dominant faction of the Democratic Party is delivering, including Barack Obama.",
+            "url": "https://www.msnbc.com/opinion/msnbc-opinion/barack-obama-democracy-forum-speech-trump-era-rcna183127",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-12/241205-barack-obama-democracy-forum-ac-1019p-da3118.jpg",
+            "publishedAt": "2024-12-06T22:44:58Z",
+            "content": "Former President Barack Obama delivered the keynote address at the 2024 Obama Democracy Forum on Thursday night in Chicago. This years theme was pluralism. \r\nIn classic Obama style, he illustrated th… [+8453 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "The nation’s cartoonists on the week in politics",
+            "description": "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundred…",
+            "url": "https://www.politico.com/gallery/2024/12/06/the-nations-cartoonists-on-the-week-in-politics-00192931",
+            "urlToImage": "https://static.politico.com/f0/4e/1c8d70c643c8bd4dfc024478a854/0-teaser.jpg",
+            "publishedAt": "2024-12-06T10:00:00+00:00",
+            "content": "Cartoon Carousel \r\nEvery week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-s… [+261 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Dawn Handley",
+            "title": "CNN Headlines | CNN",
+            "description": "CNN Headlines is a curated channel covering major news events across politics, international, business, and entertainment, and showcasing the most impactful stories of the day.",
+            "url": "https://www.cnn.com/videos/fast/cnn-headlines",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnn-headlines-placeholder-1920x1080.png?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-09-03T19:55:38.781Z",
+            "content": "CNN Headlines is a curated channel covering major news events across politics, international, business, and entertainment, and showcasing the most impactful stories of the day."
+        },
+        {
+            "source": {
+                "id": "the-american-conservative",
+                "name": "The American Conservative"
+            },
+            "author": null,
+            "title": "Politics Archives - The American Conservative",
+            "description": null,
+            "url": "https://www.theamericanconservative.com/category/politics/",
+            "urlToImage": null,
+            "publishedAt": "2022-07-07T21:37:27.3936289Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-jerusalem-post",
+                "name": "The Jerusalem Post"
+            },
+            "author": null,
+            "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+            "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+            "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+            "publishedAt": "2019-11-13T04:41:00Z",
+            "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+        } 
+    ]
+}
